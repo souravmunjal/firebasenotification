@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1001524305712",
+    "firebase_url": "https://onlinenotification-5500b.firebaseio.com",
+    "project_id": "onlinenotification-5500b",
+    "storage_bucket": "onlinenotification-5500b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001524305712:android:64018ef8905079bf",
+        "android_client_info": {
+          "package_name": "apps.souravmunjal.onlinenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001524305712-0sn6m6aok5cm816rcrogbuo6o81jr08r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "apps.souravmunjal.onlinenotification",
+            "certificate_hash": "1556850d4f6b6fc46a3c66d0b6a1b2599bebcc46"
+          }
+        },
+        {
+          "client_id": "1001524305712-lhcjpo887rc98s75n61c35114q2palpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvdvCqFNLB7PGhGJVrLdML6a_dzVqfCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001524305712-lhcjpo887rc98s75n61c35114q2palpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
